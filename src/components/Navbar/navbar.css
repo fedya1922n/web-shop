@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 71px;
+    background: #fff;
+}
+.nav__menu{
+    padding: 48px;
+}
+.nav__menu-links{
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+    padding: 10px;
+}
+.nav__menu-links:hover{
+    border-bottom: 1px solid #000;
+}
+.nav__menu-bascket{
+    padding-right: 110px;
+}
